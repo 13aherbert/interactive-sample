@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">As the Loan Closes - Ep. 1</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/6aHe92I8QVN" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">As the Loan Closes - Ep. 1</name>
+			<description lang="und">As the Loan Closes - Ep. 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/6hg18Nr64u5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Part 1</name>
+			<description lang="und">Part 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/64bdGH5JRoS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Red Flags</name>
+			<description lang="und">Red Flags</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/64bdGH5JRoS/6U2VzvkOwNG" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6HtfChBAoPg</correctResponsePattern>
+				<correctResponsePattern>choice_6iNG1RmVOcM</correctResponsePattern>
+				<correctResponsePattern>choice_5Xl7lz1Vrrv</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6HtfChBAoPg</id>
+					<description lang="und">Email Address</description>
+				</component>
+				<component>
+					<id>choice_6iNG1RmVOcM</id>
+					<description lang="und">Recent</description>
+				</component>
+				<component>
+					<id>choice_5Xl7lz1Vrrv</id>
+					<description lang="und">Tomorrows</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/5wPO4fLKRCL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Part 2</name>
+			<description lang="und">Part 2</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/6Fq8fd8qKsG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What should Matt have done?</name>
+			<description lang="und">What should Matt have done?</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/6Fq8fd8qKsG/6ns4li7gJRe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What should Matt have done?</name>
+			<description lang="und">What should Matt have done?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5xjF3bRKjcV</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6fPq9eQwsEp</id>
+					<description lang="und">Verify the source of the email</description>
+				</component>
+				<component>
+					<id>choice_5cdIXzcna9x</id>
+					<description lang="und">Not open attachments from an unverified source</description>
+				</component>
+				<component>
+					<id>choice_6XyzhRmcLnn</id>
+					<description lang="und">Call his client to confirm the order</description>
+				</component>
+				<component>
+					<id>choice_5xjF3bRKjcV</id>
+					<description lang="und">All of the above</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/6UTHgbKOmt9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Part 3</name>
+			<description lang="und">Part 3</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/6M951bUAGCP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What do you think a Funds Transfer Agreement is?</name>
+			<description lang="und">What do you think a Funds Transfer Agreement is?</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/6M951bUAGCP/60hBnQGoJMz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What do you think a Funds Transfer Agreement is?</name>
+			<description lang="und">What do you think a Funds Transfer Agreement is?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6OfkWkUxJrn</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6fHc5UAb1k1</id>
+					<description lang="und">Extra paperwork that is unnecessary</description>
+				</component>
+				<component>
+					<id>choice_6OfkWkUxJrn</id>
+					<description lang="und">A document that contains correct account numbers and contact information for the transaction</description>
+				</component>
+				<component>
+					<id>choice_5hH8PdvpPPK</id>
+					<description lang="und">A document you must create your self</description>
+				</component>
+				<component>
+					<id>choice_5bFXtRzX2HN</id>
+					<description lang="und">None of the above</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/5ozxMsBPwaH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Part 4</name>
+			<description lang="und">Part 4</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6lvwmkfj9Et/6atRP1Q2ga6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide</name>
+			<description lang="und">Results Slide</description>
+		</activity>
+	</activities>
+</tincan>
